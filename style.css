@@ -7,7 +7,7 @@
 /*GENERALE*/
 
 body{
-    background-color: grey;
+    background-color:lightgray;
 }
 
 /*FINE GENERALE*/
@@ -77,13 +77,42 @@ div ul{
     list-style-type: none;
     padding-bottom: 15px;
     font-family: arial;
-    font-weight:bold;
 }
-
 
 li{
     line-height: 30px;;
 }
+
+li span{
+    font-size: xx-small;
+    color: white;
+    padding: 5px;
+    border:white solid 1px;
+    border-radius: 12px;
+}
+
+/* COLORI*/
+
+.royalblue{
+    background-color: royalblue;
+}
+.viola{
+    background-color: orchid;
+}
+.verde{
+    background-color: green;
+}
+.arancione{
+    background-color: orange;
+}
+.magenta{
+    background-color: tomato;
+}
+.verde-chiaro{
+    background-color: lightgreen;
+}
+/* FINE COLORI*/
+
 
 /* FINE SECONDO MAIN*/
 
